@@ -1,5 +1,5 @@
 [package]
-name = "piano-lights"
+name = "clavier-à-lumières"
 version = "0.1.0"
 authors = ["cauebs"]
 edition = "2018"
